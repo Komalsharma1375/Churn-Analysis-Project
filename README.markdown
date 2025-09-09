@@ -148,7 +148,7 @@ All project resources, including datasets, notebooks, scripts, dashboards, and r
 
 For questions or feedback:  
 **Komal Sharma**  
-📧 [email](komalsharmasharma527@gmail.com)
+📧 [komalsharmasharma527@gmail.com](komalsharmasharma527@gmail.com)
 
 ---
 
